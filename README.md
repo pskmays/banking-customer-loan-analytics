@@ -5,8 +5,7 @@
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-005571?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ETL](https://custom-icon-badges.demolab.com/badge/ETL-2ECC71?logo=etl-logo&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
