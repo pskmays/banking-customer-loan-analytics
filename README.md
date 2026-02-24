@@ -1,9 +1,11 @@
 # Banking Customer & Loan Analytics (Power BI)
 
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-005571?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 ---
 
