@@ -1,1 +1,1 @@
-# banking-customer-loan-analytics
+# Banking Customer & Loan Analytics (Power BI)
