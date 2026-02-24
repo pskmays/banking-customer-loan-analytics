@@ -1,6 +1,6 @@
 # Banking Customer & Loan Analytics (Power BI)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-005571?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge)
@@ -90,7 +90,7 @@ These KPIs allow leadership to evaluate both operational and lending performance
 - Loan approval breakdown
 - High-level performance indicators
 
-<img src="screenshots/Executive_Overview.png" width="900">
+<img src="visuals/Executive_Overview.png" width="900">
 
 ---
 
@@ -101,7 +101,7 @@ These KPIs allow leadership to evaluate both operational and lending performance
 - Merchant category breakdown
 - Revenue distribution analysis
 
-<img src="screenshots/Customer_Transactions.png" width="900">
+<img src="visuals/Customer_Transactions.png" width="900">
 
 ---
 
@@ -113,7 +113,7 @@ These KPIs allow leadership to evaluate both operational and lending performance
 - Approval rate by marital status
 - Property area analysis
 
-<img src="screenshots/Loan_Applications.png" width="900">
+<img src="visuals/Loan_Applications.png" width="900">
 
 ---
 
