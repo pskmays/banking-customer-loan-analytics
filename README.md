@@ -1,11 +1,15 @@
 # Banking Customer & Loan Analytics (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0057b7?style=for-the-badge)](#)
+[![Business Intelligence (BI)](https://img.shields.io/badge/Business%20Intelligence%20(BI)-1976d2?style=for-the-badge)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-005571?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Microsoft Power Query](https://img.shields.io/badge/Microsoft%20Power%20Query-00B386?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3949ab?style=for-the-badge)](#)
+[![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-d81b60?style=for-the-badge)](#)
+[![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-00897b?style=for-the-badge)](#)
 
 ---
 
