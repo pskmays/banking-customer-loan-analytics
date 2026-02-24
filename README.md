@@ -4,6 +4,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-005571?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0B5CAD?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
@@ -43,9 +45,8 @@ The report is built using a star-schema design:
 Relationships:
 
 - customers[customer_id] (1) → transactions[customer_id] (*)  
-- customers[customer_id] (1) → loan_applications[customer_id] (*)  
-- Calendar[Date] (1) → transactions[TransactionDate] (*)  
-
+- customers[customer_id] (1) → loan_applications[customer_id] (*)
+- 
 <img src="documentation/Data_Model.png" width="900">
 
 ---
