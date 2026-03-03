@@ -12,8 +12,25 @@
 [![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-00897b?style=for-the-badge)](#)
 
 ---
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Business Objectives](#business-objectives)
+3. [Data Model](#data-model)
+4. [Data Preparation](#data-preparation)
+5. [Key DAX Measures](#key-dax-measures)
+6. [Dashboard Pages](#dashboard-pages)
+   - [Executive Overview](#executive-overview)
+   - [Customer Transaction Analysis](#customer-transaction-analysis)
+   - [Loan Application Insights](#loan-application-insights)
+7. [Executive Insights](#executive-insights)
+8. [Project Structure](#project-structure)
+9. [Technologies Used](#technologies-used)
+10. [Author](#author)
+11. [Contact](#contact)
 
-## Overview
+----
+
+## Project Overview
 
 This project simulates a real-world business intelligence engagement for a regional banking corporation.  
 The objective was to develop an interactive Power BI dashboard that provides executive-level insight into:
