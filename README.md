@@ -130,10 +130,8 @@ These KPIs allow leadership to evaluate both operational and lending performance
 ### Loan Application Insights
 
 - Approval rate by income level
-- Approval rate by employment type
-- Approval rate by education
 - Approval rate by marital status
-- Property area analysis
+- Approval rate by gender
 
 <img src="visuals/Loan_Applications.png" width="900">
 
